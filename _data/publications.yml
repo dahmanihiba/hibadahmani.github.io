@@ -1,10 +1,10 @@
+
 main:
 
-  - title: Mathematical Modeling of Unconventional Geomaterials
-    authors: <strong>Qi Zhang</strong>
-    conference: Stanford University Ph.D. Thesis, 2021.
-    pdf: https://www.proquest.com/openview/abe3da03e71a2f0e685fbf1c40031f59/1?pq-origsite=gscholar&cbl=18750&diss=y
-    code: https://github.com/qizhang94/GEOKEYFEM_HM
+  - title: SWAG  Splatting in the Wild images with Appearance-conditioned Gaussians
+    authors: Hiba Dahmani, Moussab Bennehar, Nathan Piasco, Luis Roldao, Dzmitry Tsishkou
+    conference_short: ECCV 2024
+    conference:
+    pdf: https://arxiv.org/abs/2403.10427
+    image: ./assets/img/thumb.png
     bibtex: ./assets/files/publications.txt
-    image: ./assets/img/Stanford.jpg
-    notes: Dissertation Reading Committee - Prof. Ronaldo I. Borja (Primary Advisor), Prof. Louis J. Durlofsky (NAE member), Prof. Christian Linder.
